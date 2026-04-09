@@ -1,0 +1,14 @@
+C:\Users\Prachi\Desktop\TcpAssignment\Server\bin\Debug\net8.0\Server.exe
+C:\Users\Prachi\Desktop\TcpAssignment\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\Prachi\Desktop\TcpAssignment\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\Prachi\Desktop\TcpAssignment\Server\bin\Debug\net8.0\Server.dll
+C:\Users\Prachi\Desktop\TcpAssignment\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\Prachi\Desktop\TcpAssignment\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prachi\Desktop\TcpAssignment\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\Prachi\Desktop\TcpAssignment\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\Prachi\Desktop\TcpAssignment\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\Prachi\Desktop\TcpAssignment\Server\obj\Debug\net8.0\Server.dll
+C:\Users\Prachi\Desktop\TcpAssignment\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\Prachi\Desktop\TcpAssignment\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\Prachi\Desktop\TcpAssignment\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\Prachi\Desktop\TcpAssignment\Server\obj\Debug\net8.0\ref\Server.dll
